@@ -10,17 +10,15 @@ GemChat is an AI-powered chat application built with Next.js and Google Gemini A
 
 ⚡ Responsive UI – Clean, mobile-friendly interface.
 
-🔒 Secure Backend – MongoDB + JWT/NextAuth for managing users.
+🔒 Secure Backend – MongoDB 
 
 🛠️ Tech Stack
 
-Frontend: Next.js (React) + Tailwind CSS
+Frontend: Next.js (React) 
 
 Backend: Next.js API Routes / Node.js
 
 Database: MongoDB (Mongoose)
-
-Authentication: NextAuth + Bcrypt
 
 AI Model: Google Gemini API
 
